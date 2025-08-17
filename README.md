@@ -15,15 +15,6 @@ Está desarrollado con **HTML, CSS y JavaScript puro**, ideal para practicar man
 
 ---
 
-## 📂 Estructura del proyecto
-
-amigo-secreto/
-│── index.html # Página principal
-│── style.css # Estilos de la aplicación
-│── app.js # Lógica en JavaScript
-│── assets/ # Imágenes e íconos
-│── README.md # Documentación del proyecto
-
 ## 🛠️ Instalación y uso
 
 1. **Clona este repositorio** en tu máquina local:
