@@ -19,7 +19,7 @@ Está desarrollado con **HTML, CSS y JavaScript puro**, ideal para practicar man
 
 1. **Clona este repositorio** en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/KvinCodes/challenge-amigo-secreto.git
 
 2. **Accede a la carpeta del proyecto:**
     ```bash
